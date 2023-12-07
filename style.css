@@ -1,0 +1,10 @@
+.hoverme {
+	margin: 1rem 0;
+	padding: 1em;
+	background-color: salmon;
+}
+
+.hoverme:hover {
+	background-color: gold;
+	cursor: pointer;
+}
